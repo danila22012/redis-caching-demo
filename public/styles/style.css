@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    max-width: 800px;
+    background: rgb(163, 163, 16);
+    margin: auto;
+}
+.loadButton{
+    padding: 25px 15px;
+    font-size: 32px;
+    border: none;
+    border: 3px solid green;
+    border-radius: 50px;
+    outline:none;
+    cursor: pointer;
+}
